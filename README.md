@@ -12,6 +12,12 @@ Built a portfolio using Next.js, TypeScript, Tailwind CSS, and deployed with Ver
 
 ---
 
+### **[Running Tracker](https://running-training-app.vercel.app)**  
+Developed a running statistics visualization app using Flask for data input and a React + TypeScript frontend to track my runs to prepare for my first Marathon race.  
+**(2025)**
+
+---
+
 ### **[Free Throw Percentage Tracker](https://freethrowtrackerapp.web.app)**  
 Developed an app using React, Tailwind CSS, and Firebase to track and analyze a user's free‑throw shooting performance.  
 Web‑scraped NBA data using Python and the `nba_api` module, along with data from Basketball Reference, to enhance analytics.  
@@ -19,9 +25,9 @@ Web‑scraped NBA data using Python and the `nba_api` module, along with data fr
 
 ---
 
-### **[Running Tracker](https://running-training-app.vercel.app)**  
-Developed a running statistics visualization app using Flask for data input and a React + TypeScript frontend to track my runs to prepare for my first Marathon race.  
-**(2025)**
+### **[Manchester United Contribution Leader Per Season Visualization](https://arnie12a.github.io/images/manchesterUnited.png)**  
+Scraped soccer data from FBref using Python, then processed and visualized it with Seaborn and Matplotlib.  
+**(2023)**
 
 ---
 
@@ -32,8 +38,4 @@ Features a simple, responsive interface for visualizing makes, misses, and shot 
 
 ---
 
-### **[Manchester United Contribution Leader Per Season Visualization](https://arnie12a.github.io/images/manchesterUnited.png)**  
-Scraped soccer data from FBref using Python, then processed and visualized it with Seaborn and Matplotlib.  
-**(2023)**
 
----
