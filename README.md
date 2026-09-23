@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Arnav Karnik
 
-I'm a **Computer Science and Data Science graduate** from the **University of Wisconsin–Madison** (December 2023).  
+I'm a **Computer Science masters stuent** at the **University of Colorado–Boulder** (2026 - 2028).  
 
 ---
 
@@ -20,14 +20,14 @@ Web‑scraped NBA data using Python and the `nba_api` module, along with data fr
 ---
 
 ### **[Running Tracker](https://running-training-app.vercel.app)**  
-Developed a running statistics visualization app using Flask for data input and a React + TypeScript frontend for interactive charts and metrics.  
+Developed a running statistics visualization app using Flask for data input and a React + TypeScript frontend to track my runs to prepare for my first Marathon race.  
 **(2025)**
 
 ---
 
 ### **[Basketball Shot Chart Generator](https://arnie12a.github.io/BasketballShotchart/)**  
 Built an interactive tool for plotting basketball shots and analyzing performance.  
-Features a simple, responsive interface for visualizing makes, misses, and shot locations.  
+Features a simple, responsive interface for visualizing makes, misses, and shot locations. This was the first ever thing I made and put out onto the internet. 
 **(2022)**
 
 ---
